@@ -26,4 +26,6 @@ I created some 'alias' to be faster
 |alias||
 |-----|-----|
 | cl  |clear|
+
+ESTO ES UNA PRUEBA
 |mk   |mkdir
